@@ -33,7 +33,9 @@
 
 	<!-- _______________________________ Libraries ______________________________ -->
 
-	<haxelib name="flixel" />
+	<!-- <haxelib name="flixel" /> -->
+	<include path="lib/flixel-dev" />
+	<!-- <include path="lib/flixel-input-fix" /> -->
 
 	<!--In case you want to use the addons package-->
 	<!--<haxelib name="flixel-addons" />-->

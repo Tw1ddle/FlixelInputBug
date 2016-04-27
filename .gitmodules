@@ -1,0 +1,6 @@
+[submodule "lib/flixel-input-fix"]
+	path = lib/flixel-input-fix
+	url = https://github.com/Tw1ddle/flixel
+[submodule "lib/flixel-dev"]
+	path = lib/flixel-dev
+	url = https://github.com/HaxeFlixel/flixel
